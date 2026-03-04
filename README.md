@@ -16,3 +16,7 @@ cd autonomous-project
 
 ## Testes
 > Ainda não há suíte de testes configurada. Quando houver, informe o comando recomendado para rodá-los.
+
+## Licença
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE).
+
