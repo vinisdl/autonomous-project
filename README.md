@@ -1,20 +1,26 @@
 # Autonomous Project
 
 ## Descrição
-Repositório destinado a organizar código, automações e experimentos do projeto **autonomous-project** enquanto ele evolui. Use este espaço como base para estruturar serviços, scripts e documentação associados ao produto.
+Repositório para organizar código, automações e experimentos do projeto **autonomous-project** enquanto ele evolui.
 
 ## Requisitos
 - Git
-- Dependências específicas ainda não definidas. Atualize esta seção quando o runtime principal (ex.: Python, Node.js) for escolhido.
+- Runtime principal ainda em definição (ex.: Python 3.11+ ou Node.js 18+). Atualize esta seção quando a stack for escolhida.
 
-## Instalação
+## Estrutura do repositório
+- `README.md`: documentação e instruções.
+- `LICENSE`: licença do projeto.
+- Outros diretórios serão adicionados conforme serviços, scripts e documentação forem criados.
+
+## Como rodar
+Ainda não há uma aplicação executável configurada. Para começar:
+
 ```bash
 git clone https://github.com/vinisdl/autonomous-project.git
 cd autonomous-project
 ```
 
-## Uso
-Ainda não há uma aplicação configurada para execução. Documente aqui o comando principal assim que houver um serviço ou script disponível.
+Quando o runtime principal for definido, inclua aqui o comando de instalação e execução (por exemplo, `pip install -r requirements.txt` e `python -m app`).
 
 ## Desenvolvimento
 - Crie branches descritivas para cada mudança.
